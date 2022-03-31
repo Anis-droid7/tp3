@@ -2,13 +2,13 @@
 // declare all the fileds from the form
 
 $name = $_POST['nom'];
-$prenome = $_POST['prenome'];
+$prenom = $_POST['prenom'];
 .
 .
 .
 
 
-function virifier() {
+function verifier() {
 
 	$arrors = [];
   
